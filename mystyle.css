@@ -1,0 +1,34 @@
+  h1{
+    font-family: system-ui;
+    font-size: 60px;
+    text-align: center;
+    color:purple;
+    font-weight: bold;
+  }
+
+  header{
+  text-align:center;
+  }
+
+  footer{
+    text-align:center;
+  }
+
+  h3{
+    font-size: 40px;
+    text-align: center;
+    color:purple;
+    text-decoration: underline;
+    font-weight:lighter;
+  }
+  .box
+  {
+    padding: 5px 50px 50px 50px;
+    width:100%;
+    float:left;
+    background-color: #ddedec;
+    border: 3px solid #00A4BD;
+  }
+
+  .content{
+  }
