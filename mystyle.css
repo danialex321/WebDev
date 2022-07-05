@@ -1,12 +1,28 @@
-<style>
+<stylesheet>
   h1{
+    font-family: system-ui;
     font-size: 60px;
     text-align: center;
     color:purple;
+    font-weight: bold;
+  }
+  h3{
+    font-size: 40px;
+    text-align: center;
+    color:purple;
+    text-decoration: underline;
+    font-weight:lighter;
+  }
+  .box
+  {
+    padding: 50px 50px 50px 50px;
+    width:100%;
+    float:left;
+    background-color: #ddedec;
   }
 
   .content{
     text-align:center;
   }
 
-</style>
+</stylesheet>
